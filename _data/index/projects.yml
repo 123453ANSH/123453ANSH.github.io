@@ -1,0 +1,19 @@
+#Neurotechology subtitle
+
+#all technical details are provided in github; the description here serves to provide reason behind pursuing project
+#connection to longer term goals; how it expanded my interests and where its taking me in the future
+
+#make these descriptions just technical, with a hint of long term ambition -- showcase for ALL your projects; not just ones on resume
+
+
+- name: Visual Reconstruction Web-Application - Still in Development
+  descr: "This project implements a computer vision algorithm that attempts to emulate how the human visual system processes images. The algorithm is integrated into a web-application that allows a user to upload a few images of a scene; the algorithm uses the images to generate a 3D visual reconstruction of the scene. My main motivation for pursuing this project was to learn the fundamentals of computer vision, and to understand how how algorithms that emulate brain behavior are developed. I have potential long-term prospects of working as a computational neuroscientist, developing algorithms that emulate brain function; this project was a great introduction to the type of work I would be doing in this field. I really enjoyed developing the project as a whole, and definitely am looking to pursue similar projects in the future."
+  image: aboutmeimg2.png #upload img when done
+  github: https://github.com/hmallen99/VisualReconstructionAlgorithms
+  #github: https://github.com/hmallen99/VisualReconstructionWebApp -- fig out way to incorperate both
+  
+    
+- name: fMRI Data Processing Pipeline                # September - December 2020
+  descr: "This project is a pipeline developed to reproduce the results of a journal paper (https://ieeexplore.ieee.org/document/4587673/authors#authors) providing evidence supporting the idea that reading ability is negatively impacted by electronic device usage. I chose to pursue this project as a way to learn about fMRI data, signal processing techniques for the signal, and how to analyse the signal. My main takeaway from this project is that fMRI data requires a higher level of neuroscience than I expected; I don't think I was able to completely explore the fMRI signal because of my lacking understanding of neuroscience. Therefore, I plan to pursue more fMRI-related projects in the future, when I have the appropriate technical knowledge."
+  image: aboutmeimg2.png #upload img when done
+  github: https://github.com/123453ANSH/fMRIAnalysis
